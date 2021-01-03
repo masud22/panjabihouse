@@ -5,15 +5,23 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
+    "@stripe/react-stripe-js": "^1.1.2",
+    "@stripe/stripe-js": "^1.11.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.21.0",
     "firebase": "^8.0.0",
+    "moment": "^2.29.1",
     "react": "^16.14.0",
     "react-currency-format": "^1.0.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^4.0.0"
+    "react-scripts": "^4.0.0",
+    "react-slick": "^0.27.13",
+    "react-slideshow-image": "^3.4.3",
+    "slick-carousel": "^1.8.1",
+    "stripe": "^8.120.0"
   },
   "scripts": {
     "start": "react-scripts start",
